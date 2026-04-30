@@ -1,3 +1,4 @@
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/ed545b9d-c35e-478f-a6b2-865810d14e74" />
 ![Header](./your-header-image-name.png)
 
 <!--
