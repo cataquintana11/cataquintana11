@@ -1,13 +1,11 @@
 ![Header](github-header-banner.png)
 
 <p align="center">
-  <img src="https://c.tenor.com/D_pZzQ_D7_IAAAAj/internet.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
 <p align="center">
-  <img src="https://c.tenor.com/83pZpGZ9SnoAAAAj/piano-graphics-divider-not-mine.gif" width="70%">
+  <img src="https://raw.githubusercontent.com/krzysztof-grzywacz/krzysztof-grzywacz/master/assets/divider.gif" width="100%">
 </p>
-
 <p align="center">
-  <img src="https://c.tenor.com/y2W38ZkXvS0AAAAj/cute-flower.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Gisela-N/Gisela-N/main/assets/rainbow-heart-divider.gif" width="50%">
 </p>
